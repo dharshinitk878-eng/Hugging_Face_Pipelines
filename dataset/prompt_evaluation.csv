@@ -1,0 +1,11 @@
+method,observation,evaluation
+One-shot prompting,Sentiment:,Check whether the answer follows the example.
+Few-shot prompting,:,Check whether multiple examples improve the answer.
+Role: Teacher,Explain photosynthesis to a student in simple words.,Check whether the response matches the assigned role.
+Role: Doctor,Vous are a Doctor. Give general healthy sleep tips for a student.,Check whether the response matches the assigned role.
+Role: HR Manager,Manager. Give three tips for preparing for a job interview.,Check whether the response matches the assigned role.
+Role: AI Engineer,Vous êtes un AI Engineer.,Check whether the response matches the assigned role.
+Role: Travel Guide,Suggest three things to do when visiting Paris.,Check whether the response matches the assigned role.
+Reasoning question,"Normal: 10 apples and sells 3. How many apples remain? | Structured: the calculation, then give the final answer.",Compare correctness and clarity of both responses.
+Reasoning question,Normal: Ein Bus hat 20 Passagg. 5 get off and 4 get on. | Structured: a bus.,Compare correctness and clarity of both responses.
+Reasoning question,"Normal: Sara reads 5 pages a day for 4 days, et elle lise 5 pages a day, et elle lise 4 pages a day, et elle lise 4 pages a day. | Structured: Sara reads 5 pages a day for 4 days, and reads 5 pages a day for 4 days.",Compare correctness and clarity of both responses.

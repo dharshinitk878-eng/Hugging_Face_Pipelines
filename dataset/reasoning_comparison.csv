@@ -1,0 +1,4 @@
+question,normal_prompt_response,structured_prompt_response
+A shop has 10 apples and sells 3. How many apples remain?,10 apples and sells 3. How many apples remain?,"the calculation, then give the final answer."
+A bus has 20 passengers. 5 get off and 4 get on. How many passengers are there now?,Ein Bus hat 20 Passagg. 5 get off and 4 get on.,a bus.
+Sara reads 5 pages each day for 4 days. How many pages does she read?,"Sara reads 5 pages a day for 4 days, et elle lise 5 pages a day, et elle lise 4 pages a day, et elle lise 4 pages a day.","Sara reads 5 pages a day for 4 days, and reads 5 pages a day for 4 days."

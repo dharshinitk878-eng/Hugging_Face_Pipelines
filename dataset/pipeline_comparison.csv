@@ -1,0 +1,5 @@
+task,input,output
+Sentiment Analysis,I love learning Python!,POSITIVE
+Text Summarization,AI helps computers learn and solve problems.,AI helps computers solve problems.
+Translation,"Hello, how are you?",Translation completed in Step 11
+Question Answering,Who created Python?,Guido van Rossum

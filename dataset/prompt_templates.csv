@@ -1,0 +1,4 @@
+application,template
+Education,Explain {topic} in simple words with one example.
+Text Summarization,Summarize the following text in 3 sentences: {text}
+Travel Planning,Suggest a simple one-day travel plan for {city}.

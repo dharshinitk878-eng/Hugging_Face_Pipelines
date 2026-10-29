@@ -1,0 +1,10 @@
+prompt_type,prompt,response
+One-shot,"
+Example:
+Text: The movie was wonderful.
+Sentiment: Positive
+
+Now answer:
+Text: I really enjoyed learning Python.
+Sentiment:
+",Sentiment:

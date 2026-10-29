@@ -1,0 +1,20 @@
+prompt_type,prompt,response
+Few-shot,"
+Classify each sentence as Positive or Negative.
+
+Example 1:
+Text: I love this course.
+Sentiment: Positive
+
+Example 2:
+Text: This movie was terrible.
+Sentiment: Negative
+
+Example 3:
+Text: The teacher explained everything clearly.
+Sentiment: Positive
+
+Now classify:
+Text: I enjoyed learning Python.
+Sentiment:
+",:
